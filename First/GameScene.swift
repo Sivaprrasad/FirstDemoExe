@@ -62,7 +62,7 @@ class GameScene: SKScene {
         addChild(circle)
         addChild(image)
         addChild(background)
-
+// Test
        
     }
     override func update(_ currentTime: TimeInterval) {
